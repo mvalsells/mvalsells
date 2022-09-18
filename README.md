@@ -7,3 +7,4 @@ The repos starting with LS are projects that I had to do for some university sub
 - **LS-DPOO:** Projects made in Object-Oriented Design and Coding subject (Java)
 - **LS-SDM:** Projects made in Digital Systems and Microporcessor (SSPEs, Assembly and C)
 - **LS-PAED:** Projects made in Advanced Programing and Data Structures (Java)
+- **LS-SO:** Projects made in Operating Systems (Low level C)
